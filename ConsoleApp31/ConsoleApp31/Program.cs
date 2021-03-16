@@ -63,7 +63,12 @@ namespace ConsoleApp31
             //  num1 == num2
             //     resultado == num3
 
-
+            Debug.WriteLine("ejemplos con nulos--------------");
+            // ejemplo nulos
+            string texto20 = "";
+            Debug.WriteLine(texto20);
+            string texto21=null; 
+            Debug.WriteLine(texto21);
 
 
 

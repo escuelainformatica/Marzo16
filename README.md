@@ -1,12 +1,17 @@
 # Marzo16
 
 
-# titulo
-## subtitulo
+## primitivas
 
-fdofodofdo dfsogfdofdofodg ofdgofgdofdgofdgoofgdofdgo
-fdsofsdosdfodfsoofsdofsdofdsofsdofsdoofsdofsdofsdofsodfsd
-fdsodfsfsdofsdo
+int nombre=20;
 
-aaaa**aaa**
+| tipos   | nombre    | ejemplo    |
+| ------- | --------- | ---------- |
+| int     | entero    | 20         |
+| double  | decimales | 30.0       |
+| float   | decimales | 30.0f      |
+| char    | carácter  | 'a'        |
+| string  | texto     | "hola"     |
+| bool    | booleano  | true/false |
+| decimal | decimales | 30.0d      |
 
