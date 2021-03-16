@@ -70,10 +70,17 @@ namespace ConsoleApp31
             string texto21=null; 
             Debug.WriteLine(texto21);
 
+            Debug.WriteLine("ejemplos con clases--------------");
 
-
-
-
+            Cliente john=new Cliente(); // john es una variable, john objeto. // instancia de Cliente
+            john.Nombre="john";
+            john.Rut="1-9";
+            john.Direccion="sunset blv";
+            john.Mostrar();
+            string dir=john.ObtenerDireccion();
+            Debug.WriteLine( dir );
+            int totalsuma=john.Sumar(20,30);
+            Debug.WriteLine(totalsuma);
         }
     }
 }
